@@ -38,8 +38,7 @@ python load_data.py \
   --risk_type Text-Dominant
 ```
 
-The script loads the corresponding subset and returns question-image pairs for evaluation.
-
+Use `load_data.py` to load a specific subset of Lingua-SafetyBench. The function `load_question_image_pairs()` returns the loaded question-image pairs, while running the script directly from the command line prints a confirmation message after successful loading.
 ## Supported Arguments
 
 ### `--dataset_root`
