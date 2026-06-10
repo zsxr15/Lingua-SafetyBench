@@ -114,9 +114,9 @@ Access to the dataset may be reviewed to ensure compliance with the agreed terms
 If you find Lingua-SafetyBench useful for your research, please cite our paper:
 
 ```bibtex
-@article{shi2026linguasafetybench,
+@article{shi2026lingua,
   title={Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models},
-  author={Shi, Enyi and Shao, Pengyang and Zhang, Yanxin and Cui, Chenhang and Lyu, Jiayi and Xie, Xu and Xia, Xiaobo and Shen, Fei and Chua, Tat-Seng},
+  author={Shi, Enyi and Shao, Pengyang and Zhang, Yanxin and Cui, Chenhang and Lyu, Jiayi and Xia, Xiaobo and Shen, Fei and Chua, Tat-Seng},
   journal={arXiv preprint arXiv:2601.22737},
   year={2026}
 }
