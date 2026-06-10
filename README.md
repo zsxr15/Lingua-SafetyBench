@@ -1,17 +1,8 @@
----
-pretty_name: Lingua-SafetyBench
-thumbnail: intro.jpg
----
+# Lingua-SafetyBench
 
 <p align="center">
   <img src="intro.jpg" width="720">
 </p>
-
-# Lingua-SafetyBench
-
-A Benchmark for Safety Evaluation of Multilingual Vision-Language Models.
-
-The code and dataset will be progressively released here.
 
 ## Dataset
 
