@@ -122,6 +122,6 @@ If you find Lingua-SafetyBench useful for your research, please cite our paper:
 }
 ```
 
-## License
+#### Terms of Use
 
 This dataset is released for academic research and AI safety evaluation purposes only. Any use of the dataset must comply with the official access terms, applicable laws, ethical standards, and platform policies.
