@@ -7,7 +7,6 @@ thumbnail: intro.png
   <img src="intro.png" width="720">
 </p>
 
-
 # Lingua-SafetyBench
 
 A Benchmark for Safety Evaluation of Multilingual Vision-Language Models.
