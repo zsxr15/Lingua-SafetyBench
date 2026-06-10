@@ -1,10 +1,10 @@
 ---
 pretty_name: Lingua-SafetyBench
-thumbnail: intro.png
+thumbnail: intro.jpg
 ---
 
 <p align="center">
-  <img src="intro.png" width="720">
+  <img src="intro.jpg" width="720">
 </p>
 
 # Lingua-SafetyBench
