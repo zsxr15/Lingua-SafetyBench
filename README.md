@@ -1,8 +1,13 @@
+
 # Lingua-SafetyBench
 
 <p align="center">
   <img src="intro.jpg" width="720">
 </p>
+
+## 📰 News
+
+- **[2026-11-20]** 🎉 **Lingua-SafetyBench** has been accepted by **IEEE Transactions on Information Forensics & Security (IEEE TIFS)** (CCF-A, JCR Q1)!
 
 ## Dataset
 
@@ -39,6 +44,7 @@ python load_data.py \
 ```
 
 Refer to the example code. The loaded data is returned as question-image pairs.
+
 ## Supported Arguments
 
 ### `--dataset_root`
