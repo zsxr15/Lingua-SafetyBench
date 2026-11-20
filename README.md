@@ -7,7 +7,7 @@
 
 ## 📰 News
 
-- **[2026-11-20]** 🎉 **Lingua-SafetyBench** has been accepted by **IEEE Transactions on Information Forensics & Security (IEEE TIFS)** (CCF-A, JCR Q1)!
+- **[2026-11-20]** 🎉 **Lingua-SafetyBench** has been accepted by **IEEE Transactions on Information Forensics & Security (IEEE TIFS)** **(CCF-A, JCR Q1)**!
 
 ## Dataset
 
